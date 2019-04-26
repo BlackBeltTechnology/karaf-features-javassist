@@ -1,0 +1,8 @@
+# Karaf feature Javassist
+
+Externsion to karaf which adds Javassist bundles to karaf features.
+
+## Features:
+
+- javassist 3.24.0
+
